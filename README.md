@@ -13,7 +13,7 @@ The dataset comprises 73,659 bilingual (Sanskrit + English) verses across the co
 
 | File                                                     | Description                                            | Download Link                                                                                                                                                           |
 | :------------------------------------------------------- | :----------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `mahabharat_with_qwen3-0.6B_embeddings.csv`              | Full bilingual verse corpus with metadata & embeddings | [**Download via Google Drive**](https://drive.google.com/your-drive-link-here](https://drive.google.com/file/d/1QCfWzmO3dRP0V2IEIVc7Yu2tAz36PCYt/view?usp=drive_link)) |
+| `mahabharat_with_qwen3-0.6B_embeddings.csv`              | Full bilingual verse corpus with metadata & embeddings | [**Download via Google Drive**](https://drive.google.com/file/d/1QCfWzmO3dRP0V2IEIVc7Yu2tAz36PCYt/view?usp=drive_link) |
 | `mahabharat_with_qwen3-0.6B_embeddings.csv.embcache.npy` | Pre-normalized `float32` (73659, 1024) embedding cache | [**Download via Google Drive**](https://drive.google.com/your-drive-link-here](https://drive.google.com/file/d/16dKeIhW51ek0YKfpm9soRPjO-1xtFuoL/view?usp=sharing))    |
 | `meta.parquet`                                           | Pre-extracted text & parva/chapter metadata table      | Auto-generated on first run                                                                                                                                             |
 
